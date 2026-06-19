@@ -1,0 +1,6 @@
+{
+  "name": "Brett McDermott | NYC Real Estate Advisor",
+  "description": "Personal, referral-driven real estate advisor in Midtown Manhattan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
