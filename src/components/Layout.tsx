@@ -125,6 +125,16 @@ export function Layout({ children }: { children: React.ReactNode }) {
           Call Brett: (845) 499-0986
         </a>
       </div>
+
+      {/* Promotional Floating Button */}
+      <a 
+        href="https://auroraadv.co/?tab=wizard"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="fixed bottom-20 right-6 md:bottom-8 md:right-8 z-50 bg-[#C8A96E] text-[#1C2B3A] font-bold text-[10px] uppercase tracking-wider flex items-center justify-center text-center p-3 rounded-full w-24 h-24 shadow-[0_4px_20px_rgba(200,169,110,0.4)] hover:bg-[#d4ba85] hover:scale-105 transition-all leading-tight border border-[#1C2B3A]"
+      >
+        Get this website for only $999
+      </a>
     </div>
   );
 }
